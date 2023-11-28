@@ -15,7 +15,7 @@ Text TextWidget(
     style: TextStyle(
       fontSize: fontSize,
       color: color,
-      fontWeight: weight,
+      fontWeight: weight
     ),
   );
 }
