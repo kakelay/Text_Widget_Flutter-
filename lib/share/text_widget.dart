@@ -8,7 +8,7 @@ Text TextWidget(
   Color? color,
   TextAlign align = TextAlign.left,
 }) {
-  color ??= Colors.black;
+  color ??= Colors.red;
   return Text(
     text,
     textAlign: align,
